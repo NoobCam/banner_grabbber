@@ -1,5 +1,4 @@
 http://google.com
 http://yahoo.com
 https://facebook.com
-http://smartvue.com
 http://reddit.com
